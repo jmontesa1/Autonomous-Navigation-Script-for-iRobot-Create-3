@@ -1,0 +1,1 @@
+The main idea behind the script was to center the robot within the space by making it a set distance from certain Aruco tags, rotating to leave the box, then reading and centering itself to drive towards an Aruco tag located outside the enclosed space.
